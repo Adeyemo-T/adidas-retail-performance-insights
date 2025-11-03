@@ -26,8 +26,7 @@ The analysis was built on a **Star Schema** data model developed within Power BI
 #### Data Model (Star Schema)
 The tables are connected via a **One-to-Many relationship** between the `Date Table` (one side) and the `Data Sales Adidas` table (many side) on the `Date` or `Invoice Date` field. This structure allows for accurate time-intelligence calculations.
 
-
-*(**Action:** Insert an image of your Power BI Model View showing the two connected tables.)*
+![Image](https://github.com/user-attachments/assets/8cf3772a-a8c4-4789-b400-b839c083ee17)
 
 #### Data Cleaning and Preparation
 The data cleaning and transformation process was entirely executed using **Power Query (M Language)** to ensure data quality and integrity before modeling and visualization.
@@ -53,9 +52,7 @@ This section presents the high-level financial health and sales trend, showing t
 
 * **Leading Retailers:** **Foot Locker and West Gear** are the clear leaders, generating both the highest sum of Operating Profit and strong Operating Margins.
 * **Underperforming Risks:** **Walmart and Kohl's** show the lowest Operating Margins, requiring immediate negotiation or strategic re-evaluation of partnership terms.
-
-![Retailer Performance Bar Chart](YOUR_IMAGE_LINK_FOR_RETAILER_PERFORMANCE_CHART_HERE)
-*(**Action:** Insert the image link showing the **"Retail Giants Leading the Profit Race"** bar chart and the **Underperforming Retailers table**.)*
+![Image](https://github.com/user-attachments/assets/09cc0e85-e251-45ac-9207-9eca81556237)
 
 
 
@@ -65,8 +62,9 @@ This section presents the high-level financial health and sales trend, showing t
 * **Low Profit Risk:** Products like **Women's Athletic Footwear** have high sales but contribute lower Operating Profit, indicating a need to investigate their cost structure.
 * **Regional Concentration:** The **Northeast and West** regions dominate sales distribution.
 
-![Product and Regional Sales Breakdown](YOUR_IMAGE_LINK_FOR_PRODUCT_AND_REGIONAL_CHARTS_HERE)
-*(**Action:** Insert the image link showing the **Regional Sales Distribution Map** and the **Products with Low Profitability** table.)*
+![Image](https://github.com/user-attachments/assets/189882b4-76b3-4d0c-b989-6903145018f9)
+
+![Image](https://github.com/user-attachments/assets/151668d2-19e0-47b1-bfa6-139848090420)
 
 ## Business Recommendations
 
