@@ -1,5 +1,7 @@
 # ADIDAS Commercial Performance Analysis: Optimizing Profitability and Retailer Strategy
 
+![Image](https://github.com/user-attachments/assets/2442d22b-9f0e-4cfa-af2a-40e859bc1fb3)
+
 ## Project Background
 
 A major sportswear brand (ADIDAS) requires a comprehensive commercial performance review to optimize its distribution strategy, maximize profitability across its retail partners, and address regional sales imbalances. The challenge is to identify which retailers and regions are the most profitable, not just in terms of sales volume, but Operating Margin.
@@ -43,8 +45,7 @@ The overall commercial performance is strong, with total **Sales reaching $899.9
 
 This section presents the high-level financial health and sales trend, showing the foundation of the commercial operation.
 
-![ADIDAS Commercial KPI Overview](YOUR_IMAGE_LINK_FOR_OVERVIEW_KPI_DASHBOARD_HERE)
-*(**Action:** Insert the image link for the top section showing **Sales, Unit Sold, Operating Margin, Operating Profit, and the Monthly Sales Trend**.)*
+![Image](https://github.com/user-attachments/assets/e5ed065f-8aed-4f19-a255-44d78a52a161)
 
 
 
