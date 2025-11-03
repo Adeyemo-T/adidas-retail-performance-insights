@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 * **Regional and Product Performance:** Analysis of sales distribution by region and profitability breakdown by product category.
 
 
-* **Interactive Dashboard:** The full Commercial Performance dashboard can be accessed [here](LINK_TO_POWER_BI_DASHBOARD).
+* **Interactive Dashboard:** The full Commercial Performance dashboard can be accessed [here](https://app.powerbi.com/MobileLandingPage?ctid=9db3791d-d5d0-4f91-b691-e83929715f73&pbi_source=linkShare&action=OpenLink&linkId=gG5NN6FnJY).
 
 ## Data Structure & Initial Checks
 
